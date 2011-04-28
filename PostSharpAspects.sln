@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostSharpUtilities", "PostSharpUtilities\PostSharpUtilities.csproj", "{E5827D75-52AC-4A9B-97F2-E801D57B5BFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostSharpAspects", "PostSharpAspects\PostSharpAspects.csproj", "{8D899B8A-39A0-41D3-AD32-538B174D9BDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5827D75-52AC-4A9B-97F2-E801D57B5BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5827D75-52AC-4A9B-97F2-E801D57B5BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5827D75-52AC-4A9B-97F2-E801D57B5BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5827D75-52AC-4A9B-97F2-E801D57B5BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D899B8A-39A0-41D3-AD32-538B174D9BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D899B8A-39A0-41D3-AD32-538B174D9BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D899B8A-39A0-41D3-AD32-538B174D9BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D899B8A-39A0-41D3-AD32-538B174D9BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
